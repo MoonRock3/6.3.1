@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  label {
+    width: 100px;
+    display: inline-block;
+  }
+  
+  div {
+    margin: 10px;
+  }
+  
+  .btn {
+    padding: 5px;
+    border: 1px solid grey;
+  }
